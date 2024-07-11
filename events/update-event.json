@@ -1,0 +1,6 @@
+{
+    "pathParameters": {
+      "id": "691f150c-1989-4a85-977c-6c5b34d4a177"
+    },
+    "body": "{\"todo\": \"updated task\", \"checked\": true}"
+  }
